@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="SimpleFactory/SimpleFactory.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleFactory/GreekPizza.cs">
+    <Files>
+      <File FileName="SimpleFactory/Program.cs" Line="12" Column="42" />
+      <File FileName="SimpleFactory/PizzaStore.cs" Line="15" Column="4" />
+      <File FileName="SimpleFactory/Pizza.cs" Line="7" Column="11" />
+      <File FileName="SimpleFactory/SimplePizzaFactory.cs" Line="22" Column="4" />
+      <File FileName="SimpleFactory/CheesePizza.cs" Line="13" Column="4" />
+      <File FileName="SimpleFactory/GreekPizza.cs" Line="11" Column="34" />
+      <File FileName="SimpleFactory/PepperoniPizza.cs" Line="5" Column="35" />
+      <File FileName="SimpleFactory/ClamPizza.cs" Line="5" Column="30" />
+      <File FileName="SimpleFactory/VeggiePizza.cs" Line="5" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

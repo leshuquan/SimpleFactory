@@ -1,0 +1,5 @@
+/Users/lsq/vsprojects/DesignPatterns/SimpleFactory/SimpleFactory/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/lsq/vsprojects/DesignPatterns/SimpleFactory/SimpleFactory/bin/Debug/SimpleFactory.exe.mdb
+/Users/lsq/vsprojects/DesignPatterns/SimpleFactory/SimpleFactory/bin/Debug/SimpleFactory.exe
+/Users/lsq/vsprojects/DesignPatterns/SimpleFactory/SimpleFactory/obj/x86/Debug/SimpleFactory.exe
+/Users/lsq/vsprojects/DesignPatterns/SimpleFactory/SimpleFactory/obj/x86/Debug/SimpleFactory.exe.mdb
